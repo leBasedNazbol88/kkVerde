@@ -1,0 +1,12 @@
+.centradoTitulo{
+    text-align: center;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.centradoLink{
+    text-align: center;
+    color:black;
+    margin-top: 100px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
